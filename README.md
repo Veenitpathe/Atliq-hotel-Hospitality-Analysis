@@ -4,30 +4,30 @@ Atliq Grands owns multiple five-star hotels across India. They have been in the 
 
 Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
 
-**Task List**
+# Task List
 You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
 
 Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
-****Data Model****
+# Data Model
 
 ![Model view](https://github.com/Veenitpathe/Atliq-hotel-Hospitality-Analysis/assets/128510226/dc9aeb19-1fcf-4167-9a2e-07a1fbca6afb)
 
-**Overall Analysis**
+# Overall Analysis
 
 ![Screenshot 2023-10-30 200010](https://github.com/Veenitpathe/Atliq-hotel-Hospitality-Analysis/assets/128510226/b7cde90c-ceaa-47bb-afc7-e4e7a733eeb7)
 
-**Revenue Analysis**
+# Revenue Analysis
 
 ![Screenshot 2023-10-30 200518](https://github.com/Veenitpathe/Atliq-hotel-Hospitality-Analysis/assets/128510226/26abbd6d-486c-46a2-a325-92c7b41d438b)
 
-**Rating Analysis**
+# Rating Analysis
 
 ![Rating Analysis](https://github.com/Veenitpathe/Atliq-hotel-Hospitality-Analysis/assets/128510226/879e1034-6f43-498f-917f-59620682f9cb)
 
-**Insights from Dashboard**
+# Insights from Dashboard
 
 1. Developed 4 Dashboards for Overall Analysis, Revenue Analysis, Booking Analysis, and Rating Analysis.
 2. The analysis is done on various parameters to give a proper insight from the requirement mentioned by the revenue team.
