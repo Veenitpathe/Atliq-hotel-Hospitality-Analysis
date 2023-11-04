@@ -11,16 +11,20 @@ Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
-**Data Model**
+****Data Model****
+
 ![Model view](https://github.com/Veenitpathe/Atliq-hotel-Hospitality-Analysis/assets/128510226/dc9aeb19-1fcf-4167-9a2e-07a1fbca6afb)
 
 **Overall Analysis**
+
 ![Screenshot 2023-10-30 200010](https://github.com/Veenitpathe/Atliq-hotel-Hospitality-Analysis/assets/128510226/b7cde90c-ceaa-47bb-afc7-e4e7a733eeb7)
 
 **Revenue Analysis**
+
 ![Screenshot 2023-10-30 200518](https://github.com/Veenitpathe/Atliq-hotel-Hospitality-Analysis/assets/128510226/26abbd6d-486c-46a2-a325-92c7b41d438b)
 
 **Rating Analysis**
+
 ![Rating Analysis](https://github.com/Veenitpathe/Atliq-hotel-Hospitality-Analysis/assets/128510226/879e1034-6f43-498f-917f-59620682f9cb)
 
 **Insights from Dashboard**
